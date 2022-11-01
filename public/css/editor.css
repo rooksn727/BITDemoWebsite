@@ -89,6 +89,7 @@ textarea::-webkit-scrollbar-thumb {
     outline: none;
     cursor: pointer;
     background: black;
+    color: white;
  }
 
  .btn.grey {
